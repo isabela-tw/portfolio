@@ -1,6 +1,6 @@
 Hey, thanks for checking my portfolio out! Below are my technical documentation projects, Medium articles about Crypto, and a published Psychology article.
 # cobogo
-This [documentation](https://docs.cobogo.social/) introduces cobogo to users. Cobogo is a platform made especially for Content Creators, that has the goal of giving them power over their own monetization and their communities, using Web3 to achieve that. It contains two major features, which are the **Creator Profiles**, and the **Split Yield Staking Mechanism**. The documentation includes but is not limited to:
+This [documentation](https://docs.cobogo.social/) introduces cobogo to users, and I am responsible for mantaining it. Cobogo is a platform made especially for Content Creators, that has the goal of giving them power over their own monetization and their communities, using Web3 to achieve that. It contains two major features, which are the **Creator Profiles**, and the **Split Yield Staking Mechanism**. The documentation includes but is not limited to:
 * A description about every [major](https://docs.cobogo.social/overview/how-it-works) and [planned](https://docs.cobogo.social/overview/planned-features) features in the platform.
 * Detailed information about the [Tokenomics](https://docs.cobogo.social/tokenomics/cbg-token), including the [token utility](https://docs.cobogo.social/tokenomics/token-utility), [emission](https://docs.cobogo.social/tokenomics/token-emission), [supply and distribution](https://docs.cobogo.social/tokenomics/supply-and-distribution).
 * Getting started content for both [Creators](https://docs.cobogo.social/creators/getting-started) and [Fans](https://docs.cobogo.social/fans/referral-program), with quick-start tutorials that teach how to onboard the platform, and get a referral link in just a few clicks.
@@ -42,6 +42,20 @@ I have written several Medium articles for [cobogo](https://cobogo.social/) sinc
 
 # Psychology
 I have been conducting research and writing research papers in Psychology for a while, due to my Masters and PhD in Social, Work, and Organization Psychology. 
-I have published an article about Need for Closure, Morality, and Prosocial Behavior in a [scientific journal](https://link.springer.com/article/10.1007/s43076-020-00047-x), and I'm currently in the peer reviewing proccess to publish another.
+I have published an [article](images/Scientific-Article.pdf) about Need for Closure, Morality, and Prosocial Behavior in a [scientific journal](https://link.springer.com/article/10.1007/s43076-020-00047-x), and I'm currently in the peer reviewing proccess to publish another.
 
-<a href="images/Scientific-Article.pdf"><img src="Trends-in-Psychology.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+<a href="images/Scientific-Article.pdf"><img src="images/Trends-in-Psychology.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+
+# Translation
+I also occasionally translate some texts to both Portuguese and Spanish. This includes:
+* Landing pages ([PT](https://cobogo.social/pt)/[ES](https://cobogo.social/es))
+* FAQs ([PT](https://cobogo.social/pt/faq)/[ES](https://cobogo.social/es/faq))
+* Codes of conduct ([PT](https://cobogo.social/pt/code)/[ES](https://cobogo.social/es/code))
+* Privacy policies ([PT](https://cobogo.social/pt/privacy)/[ES](https://cobogo.social/es/privacy))
+* Terms of use ([PT](https://cobogo.social/pt/terms/)ES)
+* Research articles' abstracts
+* Psychological measuring instruments
+
+![Landing Portuguese](/images/landing-portuguese.PNG)
+![Landing Spanish](/images/landing-spanish.PNG)
+![Abstracts](/images/resumenresumo.PNG)
