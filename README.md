@@ -58,4 +58,4 @@ I also occasionally translate some texts to both Portuguese and Spanish. This in
 
 ![Landing Portuguese](/images/landing-portuguese.PNG)
 ![Landing Spanish](/images/landing-spanish.PNG)
-![Abstracts](/images/resumenresumo.PNG)
+![Abstracts](/images/abstract.PNG)
