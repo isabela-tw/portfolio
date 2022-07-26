@@ -6,3 +6,5 @@ This [documentation](https://docs.cobogo.social/) introduces cobogo to users. Co
 * Getting started content for both [Creators](https://docs.cobogo.social/creators/getting-started) and [Fans](https://docs.cobogo.social/fans/referral-program), with quick-start tutorials that teach how to onboard the platform, and get a referral link in just a few clicks.
 * A FAQ section about [Blockchain Basics](https://docs.cobogo.social/guides/blockchain-basics) that relate the most to the platform.
 * [Weekly Updates](https://docs.cobogo.social/weekly-updates/weeks-1-10) section, updated every week with the project's development.
+
+<a href="https://docs.cobogo.social/"><img src="images/cobogo-documentation.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
