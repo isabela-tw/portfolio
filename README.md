@@ -42,4 +42,6 @@ I have written several Medium articles for [cobogo](https://cobogo.social/) sinc
 
 # Psychology
 I have been conducting research and writing research papers in Psychology for a while, due to my Masters and PhD in Social, Work, and Organization Psychology. 
-I have published an article about Need for Closure, Morality, and Prosocial Behavior in a scientific journal, and I'm currently in the peer reviewing proccess to publish another.
+I have published an article about Need for Closure, Morality, and Prosocial Behavior in a [scientific journal](https://link.springer.com/article/10.1007/s43076-020-00047-x), and I'm currently in the peer reviewing proccess to publish another.
+
+<a href="images/Scientific-Article.pdf"><img src="Trends-in-Psychology.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
