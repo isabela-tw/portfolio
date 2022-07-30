@@ -52,7 +52,7 @@ I also occasionally translate some texts to both Portuguese and Spanish. This in
 * FAQs ([PT](https://cobogo.social/pt/faq)/[ES](https://cobogo.social/es/faq))
 * Codes of conduct ([PT](https://cobogo.social/pt/code)/[ES](https://cobogo.social/es/code))
 * Privacy policies ([PT](https://cobogo.social/pt/privacy)/[ES](https://cobogo.social/es/privacy))
-* Terms of use ([PT](https://cobogo.social/pt/terms/)ES)
+* Terms of use ([PT](https://cobogo.social/pt/terms/)/[ES](https://cobogo.social/es/terms))
 * Research articles' abstracts
 * Psychological measuring instruments
 
