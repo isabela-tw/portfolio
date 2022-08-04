@@ -40,6 +40,8 @@ I have written several Medium articles for [cobogo](https://cobogo.social/) sinc
 
 [Yield-Bearing NFTs for Creators' continuous monetization.](https://medium.com/@cobogosocial/yield-bearing-nfts-for-creators-continuous-monetization-94dcd65d8801) "New" use of NFTs as proof of continuous, that is, as a digital representation of a staking position in a Creator's pool.
 
+[How to choose Creators for your campaign.](https://medium.com/@cobogosocial/how-to-choose-creators-for-your-campaign-50da65a1dfeb) Tips on how to choose the best marketing partners for a campaign or for specific ads.
+
 # Psychology
 I have been conducting research and writing research papers in Psychology for a while, due to my Masters and PhD in Social, Work, and Organization Psychology. 
 I have published an [article](images/Scientific-Article.pdf) about Need for Closure, Morality, and Prosocial Behavior in a [scientific journal](https://link.springer.com/article/10.1007/s43076-020-00047-x), and I'm currently in the peer reviewing proccess to publish another.
